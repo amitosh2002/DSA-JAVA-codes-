@@ -1,3 +1,8 @@
+// check if we can partition the array into two subarray with equal sum. 
+//More formally , check that the prefix sum is a part of the array is equal to the sufix of the array
+// approach----  totalSum = prefixSum + sufixSum
+
+
 import java.util.*;
 
 public class equality_sufix_and_prefix {
